@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(174, 192, 196);
+}
+
+.films {
+  height: 100px;
+  width: 95%;
+  margin: 40px;
+  font-size: 80px;
+  background: #68859c65;
+  display: flex;
+  justify-content: center;
+  color: #0a0f35;
+  font-family: 'Franklin Gothic Medium';
+  border-radius: 50px;
+}
+
+.table {
+  width: 95%;
+  margin: 50px;
+  background-color: #f3f9fce8;
+  border-width: 60px;
+  font-family: Cambria;
+  color: #0a0f35;
+}
+
+td, th {
+  letter-spacing: 1px;
+  border-width: 3px;
+  border-color: #9badb8;
+  border-style: double;
+  padding: 5px;
+}

@@ -1,24 +1,20 @@
-body {
-  background-color: rgb(174, 192, 196);
-}
-
 .films {
   height: 100px;
   width: 95%;
   margin: 40px;
   font-size: 80px;
-  background: #68859c65;
+  background-color: #98b3ca;
   display: flex;
   justify-content: center;
   color: #0a0f35;
   font-family: 'Franklin Gothic Medium';
-  border-radius: 50px;
+  border-radius: 40px;
 }
 
 .table {
   width: 95%;
   margin: 50px;
-  background-color: #f3f9fce8;
+  background-color: #d3e3eb;
   border-width: 60px;
   font-family: Cambria;
   color: #0a0f35;
@@ -27,7 +23,7 @@ body {
 td, th {
   letter-spacing: 1px;
   border-width: 3px;
-  border-color: #9badb8;
-  border-style: double;
+  border-color: #68879b;
+  border-style: ridge double;
   padding: 5px;
 }
